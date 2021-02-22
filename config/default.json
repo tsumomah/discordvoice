@@ -1,0 +1,24 @@
+{
+  "Api": {
+    "discordToken": "NzYxOTE1MTAyODE5MjU0Mjcy.X3hivA.Px2rrnhzCiiKuz7DljUX7y3OcYU",
+    "voiceTextApiKey": "p538e4tdlwcmzn7n"
+  },
+  "Prefix": "/",
+  "AutoRestart": true,
+  "ReadMe": false,
+  "AllTextChannelRead": false,
+  "Default": {
+    "apiType": 1,
+    "voiceType": "hikari"
+  },
+  "BlackLists": {
+    "memberIds": [
+      "381054450451742720"
+    ],
+    "prefixes": [
+      "!",
+      "/"
+    ],
+    "bots": true
+  }
+}
